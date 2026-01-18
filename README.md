@@ -1,4 +1,4 @@
-# GenAI Master
+# GenAI
 
 This project is an Angular application developed as part of an assignment.  
 It demonstrates the use of Angular framework with a structured project setup and basic data handling.
