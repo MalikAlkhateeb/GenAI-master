@@ -16,14 +16,13 @@ It demonstrates the use of Angular framework with a structured project setup and
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```text
 GenAI-master/
 │
 ├── .vscode/                 # VS Code configuration files
-│
 ├── public/                  # Public static files
-│
 ├── src/                     # Main Angular application source code
 │   ├── app/                 # Components, services, modules
 │   ├── assets/              # Images, icons, static assets
