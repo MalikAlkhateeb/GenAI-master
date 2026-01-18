@@ -39,7 +39,7 @@ GenAI-master/
 ├── package.json             # Project dependencies and scripts
 ├── package-lock.json        # Dependency lock file
 └── README.md                # Project documentation
-
+```
 ---
 
 ## ⚙️ Installation & Setup
