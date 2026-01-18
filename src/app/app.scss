@@ -1,0 +1,19 @@
+:host {
+  display: flex;
+}
+
+.main-content {
+  transition: margin-left 0.3s ease;
+  min-height: 100vh;
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  :host {
+    flex-direction: column;
+  }
+  
+  .main-content {
+    margin-left: 0 !important;
+  }
+}

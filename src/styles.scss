@@ -1,0 +1,12 @@
+@use 'assets/variables.scss';
+@use 'assets/size.scss';
+@use 'assets/space.scss';
+@use 'assets/common.scss';
+@use 'assets/colors.scss';
+
+@import 'primeicons/primeicons.css';
+
+body {
+  margin: 0;
+  background: var(--primary-soft);
+}
